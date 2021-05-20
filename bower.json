@@ -1,0 +1,15 @@
+{
+    "name": "checkout-js",
+    "version": "1.140.0",
+    "authors": [
+        "BigCommerce"
+    ],
+    "description": "BigCommerce Checkout",
+    "license": "Commercial",
+    "homepage": "http://www.bigcommerce.com",
+    "private": true,
+    "ignore": [
+        "**/*",
+        "!dist/**"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "name": "@types/react-test-renderer",
+    "version": "16.8.3",
+    "description": "TypeScript definitions for react-test-renderer",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Arvitaly",
+            "url": "https://github.com/arvitaly",
+            "githubUsername": "arvitaly"
+        },
+        {
+            "name": "Lochbrunner",
+            "url": "https://github.com/lochbrunner",
+            "githubUsername": "lochbrunner"
+        },
+        {
+            "name": "John Reilly",
+            "url": "https://github.com/johnnyreilly",
+            "githubUsername": "johnnyreilly"
+        },
+        {
+            "name": "John Gozde",
+            "url": "https://github.com/jgoz",
+            "githubUsername": "jgoz"
+        },
+        {
+            "name": "Jessica Franco",
+            "url": "https://github.com/Jessidhia",
+            "githubUsername": "Jessidhia"
+        }
+    ],
+    "main": "",
+    "types": "index",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/react-test-renderer"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "typesPublisherContentHash": "3475d57124e3549d40c9dbd6f1c3178aedca503e0469caa2c12968b92d1c0bfe",
+    "typeScriptVersion": "2.8"
+}
